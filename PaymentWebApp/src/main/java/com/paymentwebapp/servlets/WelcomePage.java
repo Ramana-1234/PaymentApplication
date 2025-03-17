@@ -32,7 +32,7 @@ public class WelcomePage extends HttpServlet {
 			 out.println("<html><body>");
 		        out.println("<h1>Login Successful</h1>");
 		        out.println("<p>Welcome, " + username + "!</p>");
-		        out.println("<a href='home'>Go to Home</a>");
+		        out.println("<a href='dashboard.jsp'>Go to Home</a>");
 		        out.println("</body></html>");
 		}
 		else {
