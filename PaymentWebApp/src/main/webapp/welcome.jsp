@@ -20,6 +20,6 @@
 <input type="submit" value="Login">
 </form>
 <br><br>
-<a href=''>Register</a>
+<a href='register.jsp'>Register</a>
 </body>
 </html>
