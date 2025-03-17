@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Welcome Page</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
 <h1>Welcome to Payment App</h1>
