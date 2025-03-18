@@ -11,19 +11,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
-	<div id='header'>
-		<div>
-			<h1>Payment Web Application</h1>
-		</div>
-		<div id= 'userSection'>
-			<div id='welcomeUser'>
-				<h3>Welcome username</h3>
-			</div>
-			<div id='logoutButton'>
-				<button class="logout">Log Out</button>
-			</div>
-		</div>
-	</div>
+	<%@ include file="header.jsp" %>
 	<div id='block'>
 		<div id='userSection'>
 		    <div>
